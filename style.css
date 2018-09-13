@@ -16,7 +16,6 @@ html, body {
      font-weight: bold;
      font-size: 150px;
      opacity: .15;
-     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=15)";
      z-index:100;
 }
  #frequency {
@@ -64,43 +63,36 @@ html, body {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:0;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     }
      1% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:0.5;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     }
      2% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:0;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     }
      3% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:0.5;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     }
      4% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:1;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     }
      5% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:1;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     }
      6% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:0.5;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     }
      7% {
          background-image:url('./1.png');
@@ -112,19 +104,16 @@ html, body {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:0.5;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     }
      9% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:1;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     }
      10%, 100% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:0;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     }
 }
  @keyframes storm{
@@ -132,67 +121,56 @@ html, body {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:0;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     }
      1% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:0.5;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     }
      2% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:0;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     }
      3% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:0.5;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     }
      4% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:1;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     }
      5% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:1;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     }
      6% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:0.5;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     }
      7% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:0.5;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     }
      8% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:0.5;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     }
      9% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:1;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     }
      10%, 100% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
          opacity:0;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     }
 }
  @-webkit-keyframes flash {
