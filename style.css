@@ -55,11 +55,11 @@ html, body {
      bottom: 0;
      left:0px;
      content: '';
-     -webkit-animation: strome 5s ease-in infinite;
-             animation: strome 5s ease-in infinite;
+     -webkit-animation: storm 5s ease-in infinite;
+             animation: storm 5s ease-in infinite;
      z-index: 9999;
 }
- @-webkit-keyframes strome{
+ @-webkit-keyframes storm {
      0% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
@@ -127,7 +127,7 @@ html, body {
          -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     }
 }
- @keyframes strome{
+ @keyframes storm{
      0% {
          background-image:url('./1.png');
          background-repeat: no-repeat;
