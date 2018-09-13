@@ -27,7 +27,7 @@ html, body {
 }
  #background {
      position: relative;
-     height: 73%;
+     height: 100%;
      width: 100%;
      background:url("./seattle.jpg") center center;
      background-size: cover;
